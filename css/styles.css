@@ -1,0 +1,109 @@
+body{
+  text-align: center;
+  background-color: #A7A1A1;
+}
+#home{
+  background: url('../images/homebg.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  min-height: 800px;
+  text-align: center;
+}
+
+.n{
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+h2{
+  font-family: "Montserrat";
+}
+
+h3{
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.elements
+{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.name
+{
+  font-family: "Sacramento";
+  color: #FFFFFF;
+  font-size: 6rem;
+  position: relative;
+  top: 130px ;
+
+}
+.dis{
+  font-size: 3rem;
+  color: #FFFFFF;
+  font-family: "Montserrat";
+  position: relative;
+  top: 150px;
+
+}
+
+
+/* About section  */
+
+.myImg{
+  border-radius: 50%;
+  width: 50%;
+  border-color: #000000;
+  border-style: solid;
+  border-width: 5px;
+  /* margin-top: 10px; */
+
+}
+#about{
+  /* margin-top: 100px; */
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+.para
+{
+  font-family: "Montserrat";
+  margin-right: 40px;
+  font-size: 1.5rem;
+  color: #000000;
+}
+
+
+/* skill section */
+
+#skills{
+  background-color:  #DAD5D5;
+}
+
+.myskills{
+  padding-top: 100px;
+}
+
+.skill-row{
+  width: 70%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+
+}
+
+.skill2{
+  padding-bottom: 200px;
+}
+
+.code{
+  width: 25%;
+  float: left;
+  margin-right: 50px;
+}
+.programmer{
+  width: 25%;
+  float: right;
+  margin-left: 50px;
+}
