@@ -53,10 +53,13 @@ h3{
 
 .myImg{
   border-radius: 50%;
-  width: 50%;
+  width: 17%;
   border-color: #000000;
   border-style: solid;
   border-width: 5px;
+  float: left;
+
+  margin-right: 150px;
   /* margin-top: 10px; */
 
 }
@@ -73,6 +76,26 @@ h3{
   color: #000000;
 }
 
+.Intro{
+  wigth = 50%;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+
+.paraintro{
+  margin-left: 100px;
+}
+
+.fa{
+  color: #000000;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 50px;
+}
+
 
 /* skill section */
 
@@ -84,6 +107,7 @@ h3{
   padding-top: 100px;
 }
 
+
 .skill-row{
   width: 70%;
   margin: 100px auto 200px auto;
@@ -93,6 +117,14 @@ h3{
 
 }
 
+.skill-row-2{
+  width: 70%;
+  margin: 100px auto 50px auto;
+  text-align: left;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+
+}
 .skill2{
   padding-bottom: 200px;
 }
@@ -106,4 +138,39 @@ h3{
   width: 25%;
   float: right;
   margin-left: 50px;
+}
+
+/* contact me */
+
+#contact{
+  margin-bottom: 5px;
+
+}
+.contact-me{
+  margin-bottom: 50px;
+}
+
+.your-name{
+  text-align: left;
+}
+
+.form{
+
+font-family: "Montserrat";
+font-weight: bold;
+}
+
+.icon{
+  color: #000000;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.copyrights{
+  font-family: sans-serif;
+  font-size: 0.7rem;
+  color: #FFFFFF;
+
 }
