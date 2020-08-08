@@ -168,6 +168,15 @@ font-weight: bold;
   margin-bottom: 50px;
 }
 
+.message{
+
+  font-family: "Montserrat";
+  text-align: center;
+  font-size: 1.5rem;
+  color: #000000;
+
+}
+
 .copyrights{
   font-family: sans-serif;
   font-size: 0.7rem;
